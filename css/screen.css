@@ -9,6 +9,7 @@ checkboxes{
 }
 
 img{
+  max-width: 600px;
   width: 100%;
 }
 
@@ -20,3 +21,10 @@ input:focus {
   background-color: pink;
 }
 
+body {
+  background-color: #130C3E;
+} 
+
+label {
+  color: #C12A44
+}
