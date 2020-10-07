@@ -4,3 +4,5 @@ function init(){
     alert("Success! You have been added to the Evoke Cyber mailing list.");
   });
 }
+
+window.addEventListener('load', init);
