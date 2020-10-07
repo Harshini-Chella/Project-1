@@ -15,7 +15,8 @@ img{
 
 p{
   font-family: Arial, Helvetica, sans-serif;
-  color: #C12A44
+  color: white;
+  font-size: 20px;
 }
 
 input:focus {
