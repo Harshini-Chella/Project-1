@@ -15,6 +15,7 @@ img{
 
 p{
   font-family: Arial, Helvetica, sans-serif;
+  color: #C12A44
 }
 
 input:focus {
@@ -26,5 +27,6 @@ body {
 } 
 
 label {
+  font-family: Arial, Helvetica, sans-serif;
   color: #C12A44
 }
