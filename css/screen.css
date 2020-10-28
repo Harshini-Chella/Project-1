@@ -5,11 +5,26 @@ html{
 input{
   padding: 15px 20px;
   margin: 10px 0;
-  box-sizing: border-box;
 }
 
 checkboxes{
   margin-left: 18px;
+}
+
+.checkboxes input{
+  width: 20px;
+  position: relative;
+  left: 100px;
+  vertical-align: middle;
+}
+
+.checkboxes label{
+  width: 600px;
+  position: relative;
+  left: 100px;
+  display: inline-block;
+  text-align: left;
+  vertical-align: left;
 }
 
 img{
