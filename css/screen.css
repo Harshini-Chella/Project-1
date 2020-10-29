@@ -33,7 +33,7 @@ checkboxes{
   left: 100px;
   display: inline-block;
   text-align: left;
-  vertical-align: auto;
+  vertical-align: left;
 }
 
 img{
